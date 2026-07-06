@@ -1,6 +1,6 @@
 # final_project
 
-# Santa Claus & Rudolph
+# Santa Claus & Rudolph & the Dwarf
 
 ## Project Members : Julie Miquélajaurégui, Ecaterina Gupca, Noann Manon-Maza
 ## Project Title : Transaction Fraud Detection
